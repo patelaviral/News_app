@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">India_NEWS</string>
+    <string name="api_key">59891d7cbecc4a0192280e2b2e82b5c6</string>
+    <string name="business">business</string>
+    <string name="general">general</string>
+    <string name="entertainment">entertainment</string>
+    <string name="health">health</string>
+    <string name="science">science</string>
+    <string name="sports">sports</string>
+    <string name="technology">technology</string>
+</resources>
