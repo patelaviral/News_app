@@ -22,6 +22,8 @@ Prerequisites
 📌 Firebase project set up (with authentication enabled)
 📌 News API key (from any preferred news provider)
 
+![image alt](https://github.com/patelaviral/News_app/blob/7a6ae7d51ca5d84d70054ccb552b1c43a825dd0b/screenShot(2).jpg)
+
 🚀 Future Enhancements
 🔹 Add offline news storage for reading without the internet 📡
 🔹 Implement a dark mode for better accessibility 🌙
